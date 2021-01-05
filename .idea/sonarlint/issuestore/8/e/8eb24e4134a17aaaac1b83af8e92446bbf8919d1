@@ -1,0 +1,13 @@
+
+\
+java:S1192&"FDefine a constant instead of duplicating this literal "alert" 4 times.(‹¤‚‡
+c
+java:S1192%"HDefine a constant instead of duplicating this literal "message" 4 times.(Ü½‡Óøÿÿÿÿ
+V
+java:S1128";Remove this unused import 'org.aspectj.bridge.MessageUtil'.(ˆôø¨ûÿÿÿÿ
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ï—¯Ø
+^
+java:S44882"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ëï‰ì
+Q	java:S125*"<This block of commented-out lines of code should be removed.(üêÃä
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ûøóå
